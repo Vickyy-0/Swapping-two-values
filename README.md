@@ -6,10 +6,9 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-Get the two values from the user
-
-### Step 2:  
-Assign the value in temporary variable to the first variable
+Get the two values from the user a and b
+##  Step 2:
+assign value a to b and value b to a
 ### Step 3: 
 Print both the values it would be interchanged
 ### Step 4: 
