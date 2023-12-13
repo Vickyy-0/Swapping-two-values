@@ -26,7 +26,8 @@ print("Swapped values are:",a,b)
 
 
 ## output:
-![output](swap%20output.png)
+<img width="591" alt="image" src="https://github.com/Vigneshv-23/Swapping-two-values/assets/110780412/c866ada6-fd13-40e9-bc7e-2f114f2d553e">
+
 
 ## result:
 thus the swapping of two values are succesfully executed
